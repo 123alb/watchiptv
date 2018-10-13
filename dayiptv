@@ -1,7 +1,165 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-
+#EXTM3U
+#EXTINF:0,AL: PlayTV Albania
+http://vtv.selfip.net:8080/live/01/02/1652.ts
+#EXTINF:0,AL: PlayTV 2 Albania
+http://vtv.selfip.net:8080/live/01/02/2389.ts
+#EXTINF:0,AL: Top Channel HD
+http://vtv.selfip.net:8080/live/01/02/1.ts
+#EXTINF:0,AL: Top Channel SD
+http://vtv.selfip.net:8080/live/01/02/2.ts
+#EXTINF:0,AL: Klan HD
+http://vtv.selfip.net:8080/live/01/02/14.ts
+#EXTINF:0,AL: Klan SD
+http://vtv.selfip.net:8080/live/01/02/15.ts
+#EXTINF:0,AL: Klan Plus
+http://vtv.selfip.net:8080/live/01/02/16.ts
+#EXTINF:0,AL: Klan Plus HD
+http://vtv.selfip.net:8080/live/01/02/2187.ts
+#EXTINF:0,AL: Vizion Plus HD
+http://vtv.selfip.net:8080/live/01/02/17.ts
+#EXTINF:0,AL: RTSH
+http://vtv.selfip.net:8080/live/01/02/21.ts
+#EXTINF:0,AL: RTSH 1 HD
+http://vtv.selfip.net:8080/live/01/02/22.ts
+#EXTINF:0,AL: RTSH 2 HD
+http://vtv.selfip.net:8080/live/01/02/24.ts
+#EXTINF:0,AL: RTSH 3 HD
+http://vtv.selfip.net:8080/live/01/02/2111.ts
+#EXTINF:0,AL: RTSH Shqip
+http://vtv.selfip.net:8080/live/01/02/2112.ts
+#EXTINF:0,AL: RTSH Film
+http://vtv.selfip.net:8080/live/01/02/23.ts
+#EXTINF:0,AL: RTSH Muzike
+http://vtv.selfip.net:8080/live/01/02/2350.ts
+#EXTINF:0,AL: Korca TV
+http://vtv.selfip.net:8080/live/01/02/2110.ts
+#EXTINF:0,AL: Channel One
+http://vtv.selfip.net:8080/live/01/02/25.ts
+#EXTINF:0,AL: Wedding Channel HD
+http://vtv.selfip.net:8080/live/01/02/2385.ts
+#EXTINF:0,AL: AlsatM HD
+http://vtv.selfip.net:8080/live/01/02/26.ts
+#EXTINF:0,AL: AlsatM-T
+http://vtv.selfip.net:8080/live/01/02/1027.ts
+#EXTINF:0,AL: Shenja TV
+http://vtv.selfip.net:8080/live/01/02/1751.ts
+#EXTINF:0,AL: RTV21M
+http://vtv.selfip.net:8080/live/01/02/1749.ts
+#EXTINF:0,AL: ERA
+http://vtv.selfip.net:8080/live/01/02/1753.ts
+#EXTINF:0,AL: Art TV
+http://vtv.selfip.net:8080/live/01/02/1752.ts
+#EXTINF:0,AL: RTK 1
+http://vtv.selfip.net:8080/live/01/02/30.ts
+#EXTINF:0,AL: RTK 2
+http://vtv.selfip.net:8080/live/01/02/31.ts
+#EXTINF:0,AL: RTK 3
+http://vtv.selfip.net:8080/live/01/02/32.ts
+#EXTINF:0,AL: RTK 4
+http://vtv.selfip.net:8080/live/01/02/33.ts
+#EXTINF:0,AL: RTV21 HD
+http://vtv.selfip.net:8080/live/01/02/34.ts
+#EXTINF:0,AL: RTV21 Mix
+http://vtv.selfip.net:8080/live/01/02/1741.ts
+#EXTINF:0,AL: RTV21 PLUS
+http://vtv.selfip.net:8080/live/01/02/35.ts
+#EXTINF:0,AL: KTV
+http://vtv.selfip.net:8080/live/01/02/36.ts
+#EXTINF:0,AL: Klan Kosova
+http://vtv.selfip.net:8080/live/01/02/37.ts
+#EXTINF:0,AL: First Channel
+http://vtv.selfip.net:8080/live/01/02/38.ts
+#EXTINF:0,AL: Tribuna TV
+http://vtv.selfip.net:8080/live/01/02/40.ts
+#EXTINF:0,AL: Dukagjini TV
+http://vtv.selfip.net:8080/live/01/02/670.ts
+#EXTINF:0,AL: Rrokumi
+http://vtv.selfip.net:8080/live/01/02/864.ts
+#EXTINF:0,AL: Zjarr TV
+http://vtv.selfip.net:8080/live/01/02/2192.ts
+#EXTINF:0,AL: Llapi TV
+http://vtv.selfip.net:8080/live/01/02/2384.ts
+#EXTINF:0,AL: TV1 Channel
+http://vtv.selfip.net:8080/live/01/02/2283.ts
+#EXTINF:0,AL: JugTV
+http://vtv.selfip.net:8080/live/01/02/52.ts
+#EXTINF:0,AL: Elbasani TV
+http://vtv.selfip.net:8080/live/01/02/1784.ts
+#EXTINF:0,AL: Mitrovica
+http://vtv.selfip.net:8080/live/01/02/1782.ts
+#EXTINF:0,AL: Opoja TV
+http://vtv.selfip.net:8080/live/01/02/1783.ts
+#EXTINF:0,AL: TV Bujanoc
+http://vtv.selfip.net:8080/live/01/02/2122.ts
+#EXTINF:0,AL: TV Presheva
+http://vtv.selfip.net:8080/live/01/02/2138.ts
+#EXTINF:0,AL: PEACE TV
+http://vtv.selfip.net:8080/live/01/02/47.ts
+#EXTINF:0,AL: RTV ISLAM
+http://vtv.selfip.net:8080/live/01/02/46.ts
+#EXTINF:0,AL: Kuran Hidayah Albanian TV
+http://vtv.selfip.net:8080/live/01/02/1521.ts
+#EXTINF:0,AL: Xhamia e Tabakeve HD
+http://vtv.selfip.net:8080/live/01/02/1600.ts
+#EXTINF:0,AL: AlMajd-Kuran
+http://vtv.selfip.net:8080/live/01/02/2219.ts
+#EXTINF:0,AL: TopEstrada TV
+http://vtv.selfip.net:8080/live/01/02/1466.ts
+#EXTINF:0,AL: Dasma
+http://vtv.selfip.net:8080/live/01/02/727.ts
+#EXTINF:0,AL: Tirana TV
+http://vtv.selfip.net:8080/live/01/02/53.ts
+#EXTINF:0,AL: SuperSonic
+http://vtv.selfip.net:8080/live/01/02/62.ts
+#EXTINF:0,AL: MFM Music
+http://vtv.selfip.net:8080/live/01/02/1936.ts
+#EXTINF:0,AL: Art Music HD
+http://vtv.selfip.net:8080/live/01/02/1945.ts
+#EXTINF:0,AL: BBF Music
+http://vtv.selfip.net:8080/live/01/02/61.ts
+#EXTINF:0,AL: STV Folk
+http://vtv.selfip.net:8080/live/01/02/1399.ts
+#EXTINF:0,AL: Folk Plus
+http://vtv.selfip.net:8080/live/01/02/56.ts
+#EXTINF:0,AL: Elrodi TV
+http://vtv.selfip.net:8080/live/01/02/59.ts
+#EXTINF:0,AL: Cameria TV
+http://vtv.selfip.net:8080/live/01/02/1264.ts
+#EXTINF:0,AL: Melodi
+http://vtv.selfip.net:8080/live/01/02/54.ts
+#EXTINF:0,AL: Folklorit
+http://vtv.selfip.net:8080/live/01/02/1566.ts
+#EXTINF:0,AL: RTV21 POPULLORE
+http://vtv.selfip.net:8080/live/01/02/918.ts
+#EXTINF:0,AL: RTV ZiK
+http://vtv.selfip.net:8080/live/01/02/1857.ts
+#EXTINF:0,AL: Top News
+http://vtv.selfip.net:8080/live/01/02/66.ts
+#EXTINF:0,AL: ABC News
+http://vtv.selfip.net:8080/live/01/02/67.ts
+#EXTINF:0,AL: News 24 HD
+http://vtv.selfip.net:8080/live/01/02/68.ts
+#EXTINF:0,AL: Ora News HD
+http://vtv.selfip.net:8080/live/01/02/69.ts
+#EXTINF:0,AL: Report TV
+http://vtv.selfip.net:8080/live/01/02/70.ts
+#EXTINF:0,AL: News 7
+http://vtv.selfip.net:8080/live/01/02/71.ts
+#EXTINF:0,AL: ALB Humor 1
+http://vtv.selfip.net:8080/live/01/02/1248.ts
+#EXTINF:0,AL: ALB Humor 2
+http://vtv.selfip.net:8080/live/01/02/1249.ts
+#EXTINF:0,AL: PremierMax
+http://vtv.selfip.net:8080/live/01/02/1878.ts
+#EXTINF:0,AL: Film Klassik
+http://vtv.selfip.net:8080/live/01/02/1967.ts
+#EXTINF:0,AL: PlayALB Premiere HD
+http://vtv.selfip.net:8080/live/01/02/108.ts
+#EXTINF:0,AL: PlayHD AlbaninenDuble
+http://vtv.selfip.net:8080/live/01/02/1901.ts
 #EXTINF:-1,EX-YU: AL JAZEERA BALKAN
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3428.ts
 #EXTINF:-1,EX-YU: Arena Sport 1 HD
